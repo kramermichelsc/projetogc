@@ -6,4 +6,4 @@ multiplicacao = numero * numero1
 sub = numero - numero1
 print('Resultado da soma dos valores: ', soma)
 print('Resultado da multiplicação dos valores: ', multiplicacao)
-print('Resultado da multiplicação dos valores: ', sub)
+print('Resultado da subtração dos valores: ', sub)
